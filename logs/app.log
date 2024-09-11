@@ -1,0 +1,16 @@
+03:15:04.950 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\seleniumJava\master.xml
+
+03:15:06.449 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+03:15:06.486 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+03:15:10.247 [main] INFO  tests.BlazeDemoTest - before
+03:15:12.180 [main] INFO  tests.BlazeDemoTest - find flight
+03:15:13.221 [main] INFO  tests.BlazeDemoTest - find flight
+03:18:25.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\seleniumJava\master.xml
+
+03:18:26.092 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+03:18:26.135 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+03:18:29.046 [main] INFO  tests.BlazeDemoTest - before
+03:18:30.980 [main] INFO  tests.BlazeDemoTest - find flight
+03:18:32.247 [main] INFO  tests.BlazeDemoTest - find flight
