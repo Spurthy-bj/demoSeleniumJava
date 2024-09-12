@@ -1,6 +1,5 @@
 package testCases;
 
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
 import base.BaseClass;
